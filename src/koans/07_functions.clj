@@ -1,3 +1,4 @@
+
 (ns koans.07-functions
   (:require [koan-engine.core :refer :all]))
 
